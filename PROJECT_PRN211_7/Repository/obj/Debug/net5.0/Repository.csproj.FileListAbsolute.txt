@@ -1,0 +1,47 @@
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\appsettings.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.pdb
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\appsettings.json
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.dll
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.pdb
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.dll
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\refint\Repository.dll
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.pdb
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\appsettings.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.runtimeconfig.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.runtimeconfig.dev.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\bin\Debug\net5.0\Repository.pdb
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.pdb
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.genruntimeconfig.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache

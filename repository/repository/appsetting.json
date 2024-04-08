@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "BankAccountT TypeDB": "server =(local), database=BankAccount Type; uid=sa; pwd=12345; TrustServerCertificate=True"
+  }
+}

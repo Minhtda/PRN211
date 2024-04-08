@@ -1,0 +1,153 @@
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.exe
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.deps.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.runtimeconfig.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.runtimeconfig.dev.json
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\ref\PROJECT_PRN211_7.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.pdb
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Repository.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Repository.pdb
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.AssemblyReference.cache
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Book.resources
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Login.resources
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.ManageForm.resources
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Register.resources
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.GenerateResource.cache
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.AssemblyInfoInputs.cache
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.AssemblyInfo.cs
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.CoreCompileInputs.cache
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\ref\PROJECT_PRN211_7.dll
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.pdb
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.genruntimeconfig.cache
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Borrow.resources
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Return.resources
+C:\Users\minhd\source\repos\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.BorrowBook.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.AssemblyReference.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Book.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.BorrowBook.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.BorrowForm.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.ListReaders.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Login.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.ManageForm.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Register.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Return.resources
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.GenerateResource.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.AssemblyInfoInputs.cache
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.AssemblyInfo.cs
+D:\10\duong\TH_chttt\OneDrive - hbt\Máy tính\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.CoreCompileInputs.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\appsettings.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.exe
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.deps.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.runtimeconfig.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.runtimeconfig.dev.json
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\ref\PROJECT_PRN211_7.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\PROJECT_PRN211_7.pdb
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Repository.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\bin\Debug\net5.0-windows\Repository.pdb
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.AssemblyReference.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Book.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.BorrowBook.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.BorrowForm.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.History.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.ListReaders.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Login.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.ManageForm.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Register.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.registerReader.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.Return.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.GenerateResource.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.AssemblyInfoInputs.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.AssemblyInfo.cs
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.CoreCompileInputs.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\ref\PROJECT_PRN211_7.dll
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.pdb
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.genruntimeconfig.cache
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.RegisterEmployee.resources
+D:\00sturdy\FALL2022\PRN211\code\PROJECT_PRN211_7\PROJECT_PRN211_7\obj\Debug\net5.0-windows\PROJECT_PRN211_7.csproj.CopyComplete

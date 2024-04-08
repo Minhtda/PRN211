@@ -1,0 +1,15 @@
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.csproj.AssemblyReference.cache
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.AssemblyInfoInputs.cache
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.AssemblyInfo.cs
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.csproj.CoreCompileInputs.cache
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\bin\Debug\net5.0\repository.deps.json
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\bin\Debug\net5.0\repository.runtimeconfig.json
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\bin\Debug\net5.0\repository.runtimeconfig.dev.json
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\bin\Debug\net5.0\repository.dll
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\bin\Debug\net5.0\ref\repository.dll
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\bin\Debug\net5.0\repository.pdb
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.dll
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\ref\repository.dll
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.pdb
+D:\00sturdy\FALL2022\PRN211\code\repository\repository\obj\Debug\net5.0\repository.genruntimeconfig.cache
